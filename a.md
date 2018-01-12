@@ -1,4 +1,8 @@
-| Key | Value |
+| Key |
+| :--- |
+
+
+|  | Value |
 | :--- | :--- |
 | Area1 | Area1 |
 | Area2 | Area3 |
